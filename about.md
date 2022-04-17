@@ -12,7 +12,7 @@ In the past I worked on volume rendering. I find recent advances on Neural radia
 ### More Information
 
 I work at Canon Inc in Tokyo on Computer Vision related problems. 
-Prior to this I worked in Medical Imaging at GE Research in Bagalore. 
+Prior to this I worked in Medical Imaging at GE Research in Bangalore. 
 
 ### Contact me
 
