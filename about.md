@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Topics that interest me: 
+Methods to generate and use syntetic data in training neural nets. 
+Loss functions and the peculiar ways in which neural networks learn to cheat in reaching a loss objective.
+In the past I worked on volume rendering. I find recent advances on Neural radiance fields (NeRFs) fascinating.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I work at Canon Inc in Tokyo on Computer Vision related problems. 
+Prior to this I worked in Medical Imaging at GE Research in Bagalore. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[navneeth.s@gmail.com](mailto:navneeth.s@gmail.com)
