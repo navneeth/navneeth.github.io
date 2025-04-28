@@ -5,7 +5,7 @@ title: Debugging a Broken ImageNet Classifier with Lovely Tensors: A Visual Jour
 
 ## Introduction
 
-Debugging deep learning models can often feel like navigating a dense forest of tensors. Understanding the shape, values, and gradients flowing through your network is crucial, but the default PyTorch printing can be overwhelming. Enter (`lovely-tensors`)[https://github.com/xl0/lovely-tensors], a delightful little library that provides concise and informative summaries of your tensors, making debugging a much more pleasant and visual experience.
+Debugging deep learning models can often feel like navigating a dense forest of tensors. Understanding the shape, values, and gradients flowing through your network is crucial, but the default PyTorch printing can be overwhelming. Enter [lovely-tensors](https://github.com/xl0/lovely-tensors), a delightful little library that provides concise and informative summaries of your tensors, making debugging a much more pleasant and visual experience.
 
 In this tutorial, we'll intentionally build a poorly performing ImageNet classifier. Then, step by step, we'll leverage the power of `lovely-tensors` to pinpoint the issues and understand what's going wrong under the hood, with a focus on interpreting its insightful output. Get ready to transform your debugging workflow!
 
@@ -51,4 +51,4 @@ for epoch in range(num_epochs):
         if (i+1) % 10 == 0:
             print(f'Epoch [{epoch+1}/{num_epochs}], Step [{i+1}/{len(train_loader)}], Loss: {loss.item():.4f}')
 
-print("Training finished. Let's try to debug why it's probably not great.")---
+print("Training finished. Let's try to debug why it's probably not great.")
