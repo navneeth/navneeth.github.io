@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: About
 permalink: /about/
@@ -13,7 +13,7 @@ Imaging Scientist at GE Research creating medical imaging solutions.
 
 Notable achievements include:
 - AI-powered autofocus systems for professional cameras
-- Semi-Conductor proccess yeild improvements using AI 
+- Semi-Conductor process yeild improvements using AI 
 - Real-time biometrics on cardiac structures in ultrasound images
 - GPU-accelerated volume rendering for surgical applications
 
