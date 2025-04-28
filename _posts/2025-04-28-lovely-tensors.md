@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debugging a Broken ImageNet Classifier with Lovely Tensors: A Visual Journey
+title: Debugging a Broken ImageNet Classifier with Lovely Tensors
 ---
 
 ## Introduction
